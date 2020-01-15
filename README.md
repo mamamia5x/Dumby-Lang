@@ -6,6 +6,6 @@ It's a language that is basicly encrypted. Every key is a different key, like if
 ## Online
 You can use it online [here](https://dumby-lang.mamamia5x.repl.co/), but all files made will be saved pubicly. These files CAN be chagned by anyone. You can fork it on Repl [here](https://repl.it/@mamamia5x/Dumby-Lang), just press fork at the top. This'll make it more private.
 ## Download
-You can download the project. Doing this is simple, just go to the releases. After downloading it, just run the shortcut and thats it!
+Soon you should be able to download the project.
 ## Credits?
 I used php desktop to allow you to run it with no internet, just an actual file. Check it out https://github.com/cztomczak/phpdesktop.
