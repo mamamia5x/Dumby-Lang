@@ -40,6 +40,15 @@ textarea{
   left: 50%;
   overflow: hidden;
 }  
+.look2{
+  border: none;
+  width: 100%;
+  height: 65vh;
+  position: relative;
+  bottom: 70vh;
+  right: 00%;
+  overflow: hidden;
+}
 </style>
 <script>
 var check = localStorage.getItem("Enters");
@@ -73,6 +82,7 @@ function reload (){
        ?></textarea>
     </form>
     <iframe class="look" src="terminal.php"></iframe>
+    <iframe class="look2" id="key" src="key.html"></iframe>
     <?php
     if (isset($_POST['code'])) {
       $return = file_put_contents('script.txt', $_POST['code']);
